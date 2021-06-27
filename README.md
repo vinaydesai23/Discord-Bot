@@ -1,3 +1,3 @@
 # Discord-Bot
-A discord bot which can reply to certain commands and provides data like information about the server, information about the input user.
-Mainly it provides weather condition of any input place. OpenWeather is the API used to obtain weather information of the input place.
+A discord bot built using python which answers to certain commands and provides information about the server and the input user.
+It also provides weather updates of the given location. For this, OpenWeather has been used.
